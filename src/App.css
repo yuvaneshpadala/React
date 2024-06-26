@@ -237,3 +237,14 @@ input{
    width:700px;
     height: 300px;
 }
+#bell{
+   float: right;
+   position: relative;
+   top: 0;
+  color: white;
+}
+.pie{
+   background-color: skyblue;
+   width: 700px;
+   height: 390px;
+}
