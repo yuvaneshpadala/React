@@ -21,7 +21,7 @@ function App() {
         <Col sm={2} className='menu'><Header/></Col>
         <Col sm={10} className='menu1'>
         <Routes>
-           <Route path='/react'exact Component={Home}/> 
+           <Route path='/React'exact Component={Home}/> 
         <Route path='/About' exact Component={About}/>
            <Route path='/Services' exact Component={Services}/>
            <Route path='/Contect' exact Component={Contect}/>
