@@ -226,7 +226,7 @@ input{
    border: 2px solid skyblue;
    border-radius: 15px ;
    width:700px;
-    height: 300px;
+   height: 300px;
 }
 #bell{
    float: right;
